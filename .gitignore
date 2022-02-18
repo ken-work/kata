@@ -9,7 +9,7 @@ journal
 /RUNNING_PID
 
 *.iml
-modules.xml
+.idea/modules.xml
 .idea/misc.xml
 *.ipr
 *.DS_STORE
